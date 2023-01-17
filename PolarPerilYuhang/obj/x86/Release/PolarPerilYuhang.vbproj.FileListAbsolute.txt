@@ -1,0 +1,13 @@
+D:\PolarPerilYuhang\PolarPerilYuhang\bin\Release\PolarPerilYuhang.exe
+D:\PolarPerilYuhang\PolarPerilYuhang\bin\Release\PolarPerilYuhang.pdb
+D:\PolarPerilYuhang\PolarPerilYuhang\bin\Release\PolarPerilYuhang.xml
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.MainForm.resources
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.GAMEOVER.resources
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.Resources.resources
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.NansenDeath.resources
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.welcome.resources
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.winForm.resources
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.vbproj.GenerateResource.Cache
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.exe
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.xml
+D:\PolarPerilYuhang\PolarPerilYuhang\obj\x86\Release\PolarPerilYuhang.pdb
